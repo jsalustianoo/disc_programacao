@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/jose/Documentos/2) UFRN/2º Período/Programação/disc_programacao/Semana 2 - Entrada, Saída e Tipos de Dados",
+      "program": "/home/jose/Documentos/2) UFRN/2º Período/Programação/disc_programacao/Semana 2 - Entrada, Saída e Tipos de Dados/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
